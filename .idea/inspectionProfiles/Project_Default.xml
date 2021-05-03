@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="app.*" />
+          <option value="main.outputs" />
+          <option value="main.inputs" />
+          <option value="main.*" />
+          <option value="h.nb_validation_samples" />
+          <option value="django_upload.urls.document_root" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
